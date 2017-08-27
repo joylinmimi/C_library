@@ -52,5 +52,4 @@ int		ft_atoi(const char *str)
 		return (-nbr);
 	else
 		return (nbr);
->>>>>>> 71a962f3d9112d18860b0d03e59c8cb31b784452
 }
